@@ -1,0 +1,32 @@
+nav, header, .contenedor, .central, footer {
+    max-width: 92%;
+    margin: auto;
+}
+nav {
+    background-color: blue;
+}
+
+header {
+    background-color: darkcyan;
+}
+
+.contenedor {
+    background-color: burlywood;
+}
+
+.central {
+
+    background-color: chocolate;
+    display: inline-block;
+    max-width: 65%;
+}
+
+footer {
+    background-color: green;
+}
+
+aside {
+    background-color: violet;
+    display: inline-block;
+    max-width: 25%;
+}
