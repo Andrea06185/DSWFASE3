@@ -1,32 +1,37 @@
-nav, header, .contenedor, .central, footer {
-    max-width: 92%;
+nav, header, .barra, .contenedor, .central, footer, aside {
+    max-width: 90%;
     margin: auto;
 }
 nav {
-    background-color: blue;
+    background-color: #f0b429;
 }
 
 header {
-    background-color: darkcyan;
+    background-color: white;
+}
+
+.barra {
+    background-color: #005883;
 }
 
 .contenedor {
-    background-color: burlywood;
+    background-color: white;
 }
 
 .central {
 
-    background-color: chocolate;
+    background-color: white;
     display: inline-block;
-    max-width: 65%;
+    max-width: 100%;
 }
 
 footer {
-    background-color: green;
+    background-color: #43C7F4;
 }
 
 aside {
-    background-color: violet;
+    background-color: #F47920;
     display: inline-block;
-    max-width: 25%;
+    max-width: 100%;
+  
 }
