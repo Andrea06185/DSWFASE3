@@ -1,4 +1,4 @@
-nav, header, .barra, .contenedor, .central, footer, aside {
+nav, header, .barra, .contenedor, .central, footer, .Participantes {
     max-width: 90%;
     margin: auto;
 }
@@ -18,11 +18,29 @@ header {
     background-color: white;
 }
 
+.andrea{
+    background-color: #005883; 
+    display: inline-block;
+    max-width: 65%;
+}
+
+.yilmar{
+    background-color: #F47920; 
+    display: inline-block;
+    max-width: 65%;
+}
+
+.daniel{
+    background-color: #005883; 
+    display: inline-block;
+    max-width: 65%;
+}
+
 .central {
 
     background-color: white;
     display: inline-block;
-    max-width: 100%;
+    max-width: 65%;
 }
 
 footer {
@@ -32,6 +50,5 @@ footer {
 aside {
     background-color: #F47920;
     display: inline-block;
-    max-width: 100%;
-  
+    max-width: 27%;  
 }
