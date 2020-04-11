@@ -85,7 +85,7 @@ li a:hover {
 .contenedor{
   position: relative;
   display: inline-block;
-  text-align: center;
+  text-align: left;
   margin-top: 15px;
 }
 
