@@ -259,9 +259,7 @@ button, input, optgroup, select, textarea {
   /*grid-template-rows: repeat(6, 1fr);*/
   grid-gap: 10px;
 }
-.container-blog__article {
-  /*background-color: tomato;*/
-}
+
 .first {
   grid-area: 1 / 1 / span 2 / span 1;
 }
@@ -355,7 +353,7 @@ section article img {
 
 .col-4 {
   /*background-color: #444;*/
-  color: #fff;
+  /*color: #fff;*/
   border-radius: 5px;
   padding: 20px;
 }
